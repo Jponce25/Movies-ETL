@@ -1,8 +1,8 @@
-## Movies-ETL
+# Movies-ETL
 
 We use the ETL (Extract, Transform, Load) method to Collect, Import, and Process Data in order to clean and move information between databases. The objective was to create a data pipelines that transform and moves data from a source to a destination. Usually create data pipelines is often the first step before any analysis can be performed.
 
-# ETL process is divided into three phases: Extract, Transform, and Load. 
+## ETL process is divided into three phases: Extract, Transform, and Load. 
 
 - In the Extract phase, data is pulled from external or internal sources, the sources could be flat files, scraped webpages in HTML or JavaScript Object Notation (JSON) format, SQL tables, or even streams of sensor data.
 
